@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="simplify">Simplify</string>
+    <string name="factor">Factor</string>
+    <string name="derive">Derive</string>
+    <string name="integrate">Integrate</string>
+    <string name="zeros">Find 0\'s</string>
+    <string name="findTangent">Find Tangent</string>
+    <string name="area">Area Under Curve</string>
+    <string name="cosine">Cosine</string>
+    <string name="sine">Sine</string>
+    <string name="tangent">Tangent</string>
+    <string name="inverseCosine">Inverse Cosine 	</string>
+    <string name="inverseSine">Inverse Sine</string>
+    <string name="inverseTangent">Inverse Tangent</string>
+    <string name="abs">Absolute Value</string>
+    <string name="log">Logarithm</string>
+    <string name="expression">Enter expression</string>
+    <string name="emptyExpression">You must enter expression first!</string>
+</resources>
